@@ -1,5 +1,5 @@
 # EYHackathon-Prioritize-Vaccine-Delivery
-# EYHackathon-Prioritize-Vaccine-Delivery
+
 ### Team Name : Passion-In-Tech
 ## Team Members:
     1 Sruthi Vaskuri-18PA1A05F1
