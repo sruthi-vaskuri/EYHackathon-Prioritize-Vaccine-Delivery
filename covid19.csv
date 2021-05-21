@@ -1,0 +1,752 @@
+,State_Code,State,District_Key,District,Confirmed,Active,Recovered,Deceased
+0,KA,Karnataka,KA_Bengaluru Urban,Bengaluru Urban,387832,7534,375986,4311
+1,MH,Maharashtra,MH_Pune,Pune,372103,13743,350564,7760
+2,MH,Maharashtra,MH_Mumbai,Mumbai,292722,9049,271708,11107
+3,MH,Maharashtra,MH_Thane,Thane,254074,10159,238283,5573
+4,TN,Tamil Nadu,TN_Chennai,Chennai,225252,2681,218570,4001
+5,MH,Maharashtra,MH_Nagpur,Nagpur,124881,4166,117497,3200
+6,AP,Andhra Pradesh,AP_East Godavari,East Godavari,123653,357,122660,636
+7,WB,West Bengal,WB_Kolkata,Kolkata,123033,2837,117251,2945
+8,WB,West Bengal,WB_North 24 Parganas,North 24 Parganas,116441,2070,112046,2325
+9,MH,Maharashtra,MH_Nashik,Nashik,114991,1749,111347,1894
+10,AP,Andhra Pradesh,AP_West Godavari,West Godavari,93833,151,93147,535
+11,KL,Kerala,KL_Malappuram,Malappuram,90432,4981,85103,338
+12,AP,Andhra Pradesh,AP_Chittoor,Chittoor,86080,353,84886,841
+13,KL,Kerala,KL_Kozhikode,Kozhikode,85759,5469,79984,292
+14,KL,Kerala,KL_Ernakulam,Ernakulam,82934,8532,74083,307
+15,KL,Kerala,KL_Thiruvananthapuram,Thiruvananthapuram,81478,3198,77557,652
+16,UP,Uttar Pradesh,UP_Lucknow,Lucknow,78257,2806,74340,1111
+17,TG,Telangana,TG_Hyderabad,Hyderabad,78033,77705,305,23
+18,AP,Andhra Pradesh,AP_Guntur,Guntur,74719,513,73542,664
+19,KL,Kerala,KL_Thrissur,Thrissur,74019,5981,67708,322
+20,MH,Maharashtra,MH_Ahmednagar,Ahmednagar,68949,1685,66220,1043
+21,AP,Andhra Pradesh,AP_Anantapur,Anantapur,67323,145,66581,597
+22,MH,Maharashtra,MH_Raigad,Raigad,66240,489,64257,1487
+23,AP,Andhra Pradesh,AP_S.P.S. Nellore,S.P.S. Nellore,62076,472,61099,505
+24,AP,Andhra Pradesh,AP_Prakasam,Prakasam,62014,104,61331,579
+25,AP,Andhra Pradesh,AP_Kurnool,Kurnool,60555,57,60011,487
+26,AP,Andhra Pradesh,AP_Visakhapatnam,Visakhapatnam,59134,250,58334,550
+27,KL,Kerala,KL_Kollam,Kollam,59005,4698,54076,216
+28,GJ,Gujarat,GJ_Ahmedabad,Ahmedabad,57474,2916,52312,2246
+29,RJ,Rajasthan,RJ_Jaipur,Jaipur,57118,2396,54222,500
+30,KL,Kerala,KL_Alappuzha,Alappuzha,56904,3941,52703,239
+31,HR,Haryana,HR_Gurugram,Gurugram,56744,975,55426,343
+32,MH,Maharashtra,MH_Jalgaon,Jalgaon,56069,444,54158,1447
+33,AP,Andhra Pradesh,AP_Y.S.R. Kadapa,Y.S.R. Kadapa,54972,169,54343,460
+34,MP,Madhya Pradesh,MP_Indore,Indore,54684,2955,50858,871
+35,MH,Maharashtra,MH_Satara,Satara,54438,755,51918,1755
+36,MH,Maharashtra,MH_Solapur,Solapur,53309,802,50733,1758
+37,OR,Odisha,OR_Khordha,Khordha,52685,128,52225,332
+38,CT,Chhattisgarh,CT_Raipur,Raipur,52529,4462,47350,717
+39,KA,Karnataka,KA_Mysuru,Mysuru,52346,446,50887,1013
+40,TN,Tamil Nadu,TN_Coimbatore,Coimbatore,52247,821,50774,652
+41,KL,Kerala,KL_Kottayam,Kottayam,50767,6946,43669,149
+42,AS,Assam,AS_Kamrup Metropolitan,Kamrup Metropolitan,50161,34639,15370,152
+43,MH,Maharashtra,MH_Sangli,Sangli,50126,327,48028,1768
+44,TN,Tamil Nadu,TN_Chengalpattu,Chengalpattu,49956,583,48630,743
+45,GJ,Gujarat,GJ_Surat,Surat,49277,1138,47174,965
+46,MH,Maharashtra,MH_Kolhapur,Kolhapur,49121,494,46965,1659
+47,BR,Bihar,BR_Patna,Patna,48758,1864,46516,378
+48,MH,Maharashtra,MH_Aurangabad,Aurangabad,47821,976,45623,1207
+49,KL,Kerala,KL_Palakkad,Palakkad,47777,4886,42758,126
+50,AP,Andhra Pradesh,AP_Krishna,Krishna,47742,545,46531,666
+51,MH,Maharashtra,MH_Palghar,Palghar,46687,338,45421,911
+52,AP,Andhra Pradesh,AP_Srikakulam,Srikakulam,45938,95,45497,346
+53,HR,Haryana,HR_Faridabad,Faridabad,45468,427,44639,402
+54,RJ,Rajasthan,RJ_Jodhpur,Jodhpur,43726,897,42541,288
+55,TN,Tamil Nadu,TN_Thiruvallur,Thiruvallur,42609,400,41531,678
+56,AP,Andhra Pradesh,AP_Vizianagaram,Vizianagaram,41014,45,40731,238
+57,KL,Kerala,KL_Kannur,Kannur,39493,3509,35777,199
+58,MP,Madhya Pradesh,MP_Bhopal,Bhopal,39123,1994,36554,575
+59,KA,Karnataka,KA_Ballari,Ballari,38848,203,38048,597
+60,WB,West Bengal,WB_South 24 Parganas,South 24 Parganas,35959,419,34864,676
+61,WB,West Bengal,WB_Howrah,Howrah,34563,699,32863,1001
+62,KA,Karnataka,KA_Dakshina Kannada,Dakshina Kannada,32849,296,31817,734
+63,UP,Uttar Pradesh,UP_Kanpur Nagar,Kanpur Nagar,32256,530,30904,822
+64,TN,Tamil Nadu,TN_Salem,Salem,31547,348,30742,457
+65,PY,Puducherry,PY_Puducherry,Puducherry,30453,221,29714,518
+66,JH,Jharkhand,JH_Ranchi,Ranchi,30447,789,29441,217
+67,KL,Kerala,KL_Pathanamthitta,Pathanamthitta,29987,5907,24026,52
+68,OR,Odisha,OR_Cuttack,Cuttack,28713,176,28395,142
+69,TN,Tamil Nadu,TN_Kancheepuram,Kancheepuram,28697,298,27965,434
+70,WB,West Bengal,WB_Hooghly,Hooghly,28450,809,27185,456
+71,UP,Uttar Pradesh,UP_Prayagraj,Prayagraj,28346,586,27374,386
+72,KA,Karnataka,KA_Hassan,Hassan,28000,249,27358,393
+73,UT,Uttarakhand,UT_Dehradun,Dehradun,27174,1556,24366,843
+74,KA,Karnataka,KA_Belagavi,Belagavi,26236,193,25701,342
+75,UP,Uttar Pradesh,UP_Ghaziabad,Ghaziabad,26031,438,25491,102
+76,JK,Jammu and Kashmir,JK_Srinagar,Srinagar,25264,565,24250,449
+77,UP,Uttar Pradesh,UP_Gautam Buddha Nagar,Gautam Buddha Nagar,24917,423,24404,90
+78,PB,Punjab,PB_Ludhiana,Ludhiana,24737,343,23432,962
+79,GJ,Gujarat,GJ_Vadodara,Vadodara,24685,1959,22491,235
+80,TN,Tamil Nadu,TN_Cuddalore,Cuddalore,24662,127,24252,283
+81,KA,Karnataka,KA_Tumakuru,Tumakuru,24507,341,23789,377
+82,KL,Kerala,KL_Kasaragod,Kasaragod,24064,1595,22380,85
+83,JK,Jammu and Kashmir,JK_Jammu,Jammu,23726,846,22525,355
+84,TG,Telangana,TG_Ranga Reddy,Ranga Reddy,23591,23572,17,2
+85,MH,Maharashtra,MH_Latur,Latur,23264,387,22193,680
+86,MH,Maharashtra,MH_Chandrapur,Chandrapur,23226,775,22061,389
+87,KA,Karnataka,KA_Udupi,Udupi,23039,62,22789,188
+88,CT,Chhattisgarh,CT_Durg,Durg,22601,1502,20535,564
+89,UP,Uttar Pradesh,UP_Varanasi,Varanasi,22511,698,21379,434
+90,KA,Karnataka,KA_Shivamogga,Shivamogga,22025,194,21483,348
+91,KA,Karnataka,KA_Davanagere,Davanagere,22011,116,21631,264
+92,KA,Karnataka,KA_Dharwad,Dharwad,21859,111,21140,608
+93,OR,Odisha,OR_Ganjam,Ganjam,21805,19,21532,254
+94,UP,Uttar Pradesh,UP_Meerut,Meerut,21696,1075,20194,427
+95,WB,West Bengal,WB_Nadia,Nadia,21622,685,20652,285
+96,RJ,Rajasthan,RJ_Alwar,Alwar,21412,369,20965,78
+97,MH,Maharashtra,MH_Nanded,Nanded,21310,384,20260,661
+98,CT,Chhattisgarh,CT_Raigarh,Raigarh,21233,219,20732,282
+99,KA,Karnataka,KA_Kalaburagi,Kalaburagi,21065,197,20545,323
+100,UP,Uttar Pradesh,UP_Gorakhpur,Gorakhpur,20960,253,20367,340
+101,TN,Tamil Nadu,TN_Madurai,Madurai,20519,177,19890,452
+102,TN,Tamil Nadu,TN_Vellore,Vellore,20192,175,19677,340
+103,GJ,Gujarat,GJ_Rajkot,Rajkot,20100,1019,18890,191
+104,WB,West Bengal,WB_Purba Medinipur,Purba Medinipur,20041,534,19235,272
+105,MH,Maharashtra,MH_Amravati,Amravati,19997,501,19113,381
+106,PB,Punjab,PB_Jalandhar,Jalandhar,19885,397,18848,640
+107,WB,West Bengal,WB_Paschim Medinipur,Paschim Medinipur,19807,455,19056,296
+108,CH,Chandigarh,CH_Chandigarh,Chandigarh,19682,399,18967,316
+109,KA,Karnataka,KA_Mandya,Mandya,19418,154,19117,147
+110,TN,Tamil Nadu,TN_Tiruvannamalai,Tiruvannamalai,19135,91,18763,281
+111,RJ,Rajasthan,RJ_Bikaner,Bikaner,18988,76,18746,166
+112,TG,Telangana,TG_Medchal Malkajgiri,Medchal Malkajgiri,18985,18975,9,1
+113,CT,Chhattisgarh,CT_Janjgir Champa,Janjgir Champa,18571,135,18219,217
+114,RJ,Rajasthan,RJ_Kota,Kota,18469,568,17736,165
+115,CT,Chhattisgarh,CT_Rajnandgaon,Rajnandgaon,18260,1196,16897,167
+116,KA,Karnataka,KA_Bengaluru Rural,Bengaluru Rural,18236,256,17828,152
+117,PB,Punjab,PB_S.A.S. Nagar,S.A.S. Nagar,18143,1153,16651,339
+118,CT,Chhattisgarh,CT_Bilaspur,Bilaspur,17888,432,17267,189
+119,JH,Jharkhand,JH_East Singhbhum,East Singhbhum,17885,227,17303,355
+120,WB,West Bengal,WB_Darjeeling,Darjeeling,17785,503,17085,197
+121,TN,Tamil Nadu,TN_Thanjavur,Thanjavur,17141,215,16690,236
+122,MH,Maharashtra,MH_Beed,Beed,17036,314,16194,521
+123,TN,Tamil Nadu,TN_Tiruppur,Tiruppur,17017,319,16482,216
+124,HR,Haryana,HR_Hisar,Hisar,16934,73,16544,317
+125,TN,Tamil Nadu,TN_Theni,Theni,16889,71,16614,204
+126,MH,Maharashtra,MH_Osmanabad,Osmanabad,16831,195,16098,536
+127,KL,Kerala,KL_Wayanad,Wayanad,16758,2742,13966,49
+128,RJ,Rajasthan,RJ_Ajmer,Ajmer,16492,350,15923,219
+129,KL,Kerala,KL_Idukki,Idukki,16342,3008,13314,17
+130,TN,Tamil Nadu,TN_Virudhunagar,Virudhunagar,16329,96,16005,228
+131,TN,Tamil Nadu,TN_Kanyakumari,Kanyakumari,16315,128,15931,256
+132,TN,Tamil Nadu,TN_Thoothukkudi,Thoothukkudi,16061,80,15840,141
+133,CT,Chhattisgarh,CT_Korba,Korba,15987,161,15716,110
+134,TN,Tamil Nadu,TN_Ranipet,Ranipet,15903,56,15666,181
+135,MP,Madhya Pradesh,MP_Gwalior,Gwalior,15894,341,15354,199
+136,PB,Punjab,PB_Patiala,Patiala,15727,245,15005,477
+137,MH,Maharashtra,MH_Dhule,Dhule,15622,240,15035,344
+138,MP,Madhya Pradesh,MP_Jabalpur,Jabalpur,15489,489,14759,241
+139,WB,West Bengal,WB_Paschim Bardhaman,Paschim Bardhaman,15401,552,14697,152
+140,TN,Tamil Nadu,TN_Tirunelveli,Tirunelveli,15282,130,14941,211
+141,TN,Tamil Nadu,TN_Viluppuram,Viluppuram,14981,97,14774,110
+142,OR,Odisha,OR_Sundargarh,Sundargarh,14635,337,14128,170
+143,HR,Haryana,HR_Sonipat,Sonipat,14506,199,14228,79
+144,PB,Punjab,PB_Amritsar,Amritsar,14487,423,13513,551
+145,WB,West Bengal,WB_Jalpaiguri,Jalpaiguri,14338,396,13787,155
+146,KA,Karnataka,KA_Chitradurga,Chitradurga,14250,157,14025,68
+147,KA,Karnataka,KA_Uttara Kannada,Uttara Kannada,14219,87,13956,176
+148,KA,Karnataka,KA_Vijayapura,Vijayapura,14182,84,13894,204
+149,TN,Tamil Nadu,TN_Tiruchirappalli,Tiruchirappalli,14162,203,13783,176
+150,KA,Karnataka,KA_Raichur,Raichur,14157,64,13935,158
+151,UP,Uttar Pradesh,UP_Bareilly,Bareilly,14056,391,13504,161
+152,OR,Odisha,OR_Puri,Puri,13996,42,13835,119
+153,OR,Odisha,OR_Mayurbhanj,Mayurbhanj,13891,93,13706,92
+154,KA,Karnataka,KA_Koppal,Koppal,13872,62,13531,279
+155,MH,Maharashtra,MH_Gondia,Gondia,13803,397,13245,155
+156,MH,Maharashtra,MH_Yavatmal,Yavatmal,13728,365,12964,395
+157,KA,Karnataka,KA_Chikkamagaluru,Chikkamagaluru,13675,114,13422,139
+158,KA,Karnataka,KA_Bagalkote,Bagalkote,13666,22,13508,136
+159,TN,Tamil Nadu,TN_Erode,Erode,13636,264,13228,144
+160,MH,Maharashtra,MH_Buldhana,Buldhana,13589,578,12788,217
+161,UT,Uttarakhand,UT_Haridwar,Haridwar,13363,404,12687,147
+162,TG,Telangana,TG_Karimnagar,Karimnagar,13262,13246,16,0
+163,KA,Karnataka,KA_Chikkaballapura,Chikkaballapura,12952,222,12613,116
+164,MH,Maharashtra,MH_Jalna,Jalna,12775,205,12228,341
+165,MH,Maharashtra,MH_Bhandara,Bhandara,12663,453,11933,275
+166,WB,West Bengal,WB_Malda,Malda,12465,289,12065,111
+167,WB,West Bengal,WB_Purba Bardhaman,Purba Bardhaman,12225,250,11880,95
+168,TG,Telangana,TG_Nalgonda,Nalgonda,12100,12088,12,0
+169,HR,Haryana,HR_Rohtak,Rohtak,12064,142,11776,146
+170,OR,Odisha,OR_Balasore,Balasore,12043,128,11816,99
+171,OR,Odisha,OR_Jajpur,Jajpur,11944,99,11819,26
+172,WB,West Bengal,WB_Murshidabad,Murshidabad,11926,311,11469,146
+173,WB,West Bengal,WB_Cooch Behar,Cooch Behar,11657,262,11323,72
+174,UP,Uttar Pradesh,UP_Moradabad,Moradabad,11624,290,11158,176
+175,TR,Tripura,TR_West Tripura,West Tripura,11577,65,11311,190
+176,BR,Bihar,BR_Muzaffarpur,Muzaffarpur,11568,264,11259,45
+177,HR,Haryana,HR_Ambala,Ambala,11501,204,11154,143
+178,TG,Telangana,TG_Warangal Urban,Warangal Urban,11416,11393,23,0
+179,TN,Tamil Nadu,TN_Pudukkottai,Pudukkottai,11397,51,11191,155
+180,WB,West Bengal,WB_Bankura,Bankura,11357,359,10908,90
+181,HR,Haryana,HR_Rewari,Rewari,11301,204,11024,73
+182,RJ,Rajasthan,RJ_Udaipur,Udaipur,11291,390,10791,110
+183,UT,Uttarakhand,UT_Nainital,Nainital,11216,956,9998,204
+184,TN,Tamil Nadu,TN_Namakkal,Namakkal,11189,181,10899,109
+185,MH,Maharashtra,MH_Ratnagiri,Ratnagiri,11169,394,10397,376
+186,UP,Uttar Pradesh,UP_Aligarh,Aligarh,11164,142,10967,55
+187,UT,Uttarakhand,UT_Udham Singh Nagar,Udham Singh Nagar,11076,160,10697,109
+188,KA,Karnataka,KA_Haveri,Haveri,10959,20,10749,190
+189,TN,Tamil Nadu,TN_Dindigul,Dindigul,10926,153,10576,197
+190,TN,Tamil Nadu,TN_Thiruvarur,Thiruvarur,10923,120,10694,109
+191,KA,Karnataka,KA_Gadag,Gadag,10903,27,10735,141
+192,OR,Odisha,OR_Angul,Angul,10858,224,10597,37
+193,TN,Tamil Nadu,TN_Kallakurichi,Kallakurichi,10797,19,10670,108
+194,HR,Haryana,HR_Karnal,Karnal,10785,251,10388,146
+195,RJ,Rajasthan,RJ_Pali,Pali,10723,399,10215,109
+196,KA,Karnataka,KA_Yadgir,Yadgir,10577,24,10492,61
+197,MH,Maharashtra,MH_Akola,Akola,10554,333,9870,346
+198,HR,Haryana,HR_Panipat,Panipat,10497,221,10131,145
+199,TG,Telangana,TG_Khammam,Khammam,10359,10356,3,0
+200,UP,Uttar Pradesh,UP_Agra,Agra,10227,176,9881,170
+201,GJ,Gujarat,GJ_Jamnagar,Jamnagar,10134,141,9958,35
+202,OR,Odisha,OR_Bargarh,Bargarh,10128,110,9978,40
+203,UP,Uttar Pradesh,UP_Jhansi,Jhansi,10104,166,9760,178
+204,HP,Himachal Pradesh,HP_Shimla,Shimla,10047,327,9427,254
+205,HR,Haryana,HR_Panchkula,Panchkula,9964,226,9596,142
+206,UP,Uttar Pradesh,UP_Saharanpur,Saharanpur,9737,376,9228,133
+207,KA,Karnataka,KA_Kolar,Kolar,9700,125,9399,176
+208,HP,Himachal Pradesh,HP_Mandi,Mandi,9636,581,8937,118
+209,RJ,Rajasthan,RJ_Bhilwara,Bhilwara,9603,376,9188,39
+210,WB,West Bengal,WB_Birbhum,Birbhum,9563,260,9219,84
+211,RJ,Rajasthan,RJ_Nagaur,Nagaur,9527,315,9122,90
+212,AS,Assam,AS_Dibrugarh,Dibrugarh,9486,6975,2409,102
+213,MH,Maharashtra,MH_Wardha,Wardha,9452,267,8916,265
+214,BR,Bihar,BR_Bhagalpur,Bhagalpur,9369,129,9164,76
+215,OR,Odisha,OR_Sambalpur,Sambalpur,9323,161,9086,76
+216,BR,Bihar,BR_Purnia,Purnia,9256,59,9174,23
+217,PB,Punjab,PB_Bathinda,Bathinda,9106,182,8718,206
+218,OR,Odisha,OR_Jagatsinghpur,Jagatsinghpur,9073,37,8998,38
+219,OR,Odisha,OR_Kendrapara,Kendrapara,9035,123,8883,29
+220,CT,Chhattisgarh,CT_Balod,Balod,9026,564,8377,85
+221,RJ,Rajasthan,RJ_Bharatpur,Bharatpur,8971,97,8754,120
+222,RJ,Rajasthan,RJ_Sikar,Sikar,8927,201,8630,96
+223,CT,Chhattisgarh,CT_Baloda Bazar,Baloda Bazar,8858,111,8619,128
+224,AS,Assam,AS_Jorhat,Jorhat,8771,6965,1752,54
+225,TG,Telangana,TG_Bhadradri Kothagudem,Bhadradri Kothagudem,8738,8734,4,0
+226,HR,Haryana,HR_Kurukshetra,Kurukshetra,8600,174,8300,126
+227,MN,Manipur,MN_Imphal West,Imphal West,8516,8369,52,95
+228,MH,Maharashtra,MH_Gadchiroli,Gadchiroli,8494,186,8215,87
+229,OR,Odisha,OR_Balangir,Balangir,8480,105,8336,39
+230,OR,Odisha,OR_Rayagada,Rayagada,8366,18,8303,45
+231,BR,Bihar,BR_East Champaran,East Champaran,8320,69,8201,50
+232,OR,Odisha,OR_State Pool,State Pool,8306,76,8230,0
+233,ML,Meghalaya,ML_East Khasi Hills,East Khasi Hills,8264,135,8016,113
+234,TN,Tamil Nadu,TN_Tenkasi,Tenkasi,8261,51,8052,158
+235,UP,Uttar Pradesh,UP_Muzaffarnagar,Muzaffarnagar,8236,294,7840,102
+236,TN,Tamil Nadu,TN_Nagapattinam,Nagapattinam,8129,120,7882,127
+237,MH,Maharashtra,MH_Nandurbar,Nandurbar,8119,419,7530,169
+238,BR,Bihar,BR_Nalanda,Nalanda,8113,95,7962,56
+239,GJ,Gujarat,GJ_Gandhinagar,Gandhinagar,8080,219,7756,105
+240,WB,West Bengal,WB_Dakshin Dinajpur,Dakshin Dinajpur,8078,63,7942,73
+241,JK,Jammu and Kashmir,JK_Baramulla,Baramulla,7950,114,7664,172
+242,TN,Tamil Nadu,TN_Nilgiris,Nilgiris,7930,113,7771,46
+243,HR,Haryana,HR_Sirsa,Sirsa,7929,76,7740,113
+244,PB,Punjab,PB_Gurdaspur,Gurdaspur,7928,164,7514,250
+245,TG,Telangana,TG_Nizamabad,Nizamabad,7920,7890,30,0
+246,CT,Chhattisgarh,CT_Mahasamund,Mahasamund,7914,273,7525,116
+247,UP,Uttar Pradesh,UP_Ayodhya,Ayodhya,7884,167,7606,111
+248,OR,Odisha,OR_Kendujhar,Kendujhar,7874,71,7766,37
+249,CT,Chhattisgarh,CT_Dhamtari,Dhamtari,7873,523,7243,107
+250,TN,Tamil Nadu,TN_Krishnagiri,Krishnagiri,7867,110,7641,116
+251,OR,Odisha,OR_Koraput,Koraput,7852,36,7800,16
+252,BR,Bihar,BR_Gaya,Gaya,7772,111,7602,59
+253,TG,Telangana,TG_Siddipet,Siddipet,7766,7765,1,0
+254,UP,Uttar Pradesh,UP_Ballia,Ballia,7765,168,7493,104
+255,PB,Punjab,PB_Hoshiarpur,Hoshiarpur,7719,118,7291,310
+256,BR,Bihar,BR_Begusarai,Begusarai,7707,134,7539,34
+257,TG,Telangana,TG_Sangareddy,Sangareddy,7707,7701,6,0
+258,HP,Himachal Pradesh,HP_Kangra,Kangra,7700,524,6989,185
+259,UP,Uttar Pradesh,UP_Barabanki,Barabanki,7668,70,7498,100
+260,WB,West Bengal,WB_Alipurduar,Alipurduar,7632,51,7496,85
+261,BR,Bihar,BR_Madhubani,Madhubani,7599,40,7526,33
+262,JK,Jammu and Kashmir,JK_Budgam,Budgam,7593,153,7332,108
+263,MH,Maharashtra,MH_Parbhani,Parbhani,7589,145,7151,282
+264,CT,Chhattisgarh,CT_Bastar,Bastar,7566,175,7308,83
+265,UP,Uttar Pradesh,UP_Lakhimpur Kheri,Lakhimpur Kheri,7497,134,7275,88
+266,OR,Odisha,OR_Jharsuguda,Jharsuguda,7481,68,7387,26
+267,TN,Tamil Nadu,TN_Tirupathur,Tirupathur,7436,48,7263,125
+268,JH,Jharkhand,JH_Dhanbad,Dhanbad,7424,64,7256,104
+269,OR,Odisha,OR_Bhadrak,Bhadrak,7402,33,7340,29
+270,CT,Chhattisgarh,CT_Surguja,Surguja,7396,462,6852,82
+271,KA,Karnataka,KA_Ramanagara,Ramanagara,7376,35,7265,76
+272,LA,Ladakh,LA_Leh,Leh,7352,180,7088,84
+273,OR,Odisha,OR_Nuapada,Nuapada,7303,63,7213,27
+274,KA,Karnataka,KA_Bidar,Bidar,7251,39,7037,171
+275,BR,Bihar,BR_Katihar,Katihar,7168,59,7097,12
+276,BR,Bihar,BR_Araria,Araria,7157,50,7085,22
+277,BR,Bihar,BR_Saran,Saran,7127,213,6861,53
+278,WB,West Bengal,WB_Purulia,Purulia,6927,318,6562,47
+279,TG,Telangana,TG_Suryapet,Suryapet,6883,6859,24,0
+280,UP,Uttar Pradesh,UP_Shahjahanpur,Shahjahanpur,6816,80,6625,111
+281,MH,Maharashtra,MH_Washim,Washim,6804,142,6511,149
+282,KA,Karnataka,KA_Chamarajanagara,Chamarajanagara,6770,83,6557,119
+283,AR,Arunachal Pradesh,AR_Papum Pare,Papum Pare,6754,39,6686,29
+284,BR,Bihar,BR_Saharsa,Saharsa,6732,86,6634,12
+285,UP,Uttar Pradesh,UP_Deoria,Deoria,6698,98,6508,92
+286,BR,Bihar,BR_Rohtas,Rohtas,6684,39,6600,45
+287,GJ,Gujarat,GJ_Mehsana,Mehsana,6684,205,6441,38
+288,UP,Uttar Pradesh,UP_Mathura,Mathura,6669,172,6388,109
+289,RJ,Rajasthan,RJ_Ganganagar,Ganganagar,6578,194,6342,42
+290,UP,Uttar Pradesh,UP_Jaunpur,Jaunpur,6578,175,6306,97
+291,HR,Haryana,HR_Mahendragarh,Mahendragarh,6578,36,6523,19
+292,TN,Tamil Nadu,TN_Sivaganga,Sivaganga,6532,69,6337,126
+293,JH,Jharkhand,JH_Bokaro,Bokaro,6493,78,6356,59
+294,HR,Haryana,HR_Yamunanagar,Yamunanagar,6456,187,6130,139
+295,OR,Odisha,OR_Nayagarh,Nayagarh,6450,19,6385,46
+296,WB,West Bengal,WB_Uttar Dinajpur,Uttar Dinajpur,6437,174,6191,72
+297,HP,Himachal Pradesh,HP_Solan,Solan,6414,378,5967,69
+298,TN,Tamil Nadu,TN_Dharmapuri,Dharmapuri,6404,83,6268,53
+299,NL,Nagaland,NL_Dimapur,Dimapur,6397,83,6191,51
+300,TN,Tamil Nadu,TN_Ramanathapuram,Ramanathapuram,6318,28,6158,132
+301,OR,Odisha,OR_Kalahandi,Kalahandi,6303,37,6235,31
+302,HR,Haryana,HR_Bhiwani,Bhiwani,6239,23,6076,140
+303,AS,Assam,AS_Cachar,Cachar,6216,4677,1498,41
+304,UP,Uttar Pradesh,UP_Bulandshahr,Bulandshahr,6079,168,5820,91
+305,MH,Maharashtra,MH_Sindhudurg,Sindhudurg,6018,331,5526,160
+306,CT,Chhattisgarh,CT_Uttar Bastar Kanker,Uttar Bastar Kanker,6015,79,5880,56
+307,BR,Bihar,BR_West Champaran,West Champaran,5980,73,5885,22
+308,UP,Uttar Pradesh,UP_Azamgarh,Azamgarh,5969,139,5736,94
+309,OR,Odisha,OR_Kandhamal,Kandhamal,5924,4,5887,33
+310,TG,Telangana,TG_Jagtial,Jagtial,5922,5920,2,0
+311,CT,Chhattisgarh,CT_Dakshin Bastar Dantewada,Dakshin Bastar Dantewada,5831,9,5806,16
+312,GJ,Gujarat,GJ_Bhavnagar,Bhavnagar,5818,89,5661,68
+313,UP,Uttar Pradesh,UP_Hardoi,Hardoi,5815,116,5593,106
+314,HR,Haryana,HR_Jhajjar,Jhajjar,5805,66,5648,91
+315,OR,Odisha,OR_Nabarangapur,Nabarangapur,5803,19,5769,15
+316,UP,Uttar Pradesh,UP_Maharajganj,Maharajganj,5766,24,5652,90
+317,KA,Karnataka,KA_Kodagu,Kodagu,5728,93,5564,71
+318,BR,Bihar,BR_Gopalganj,Gopalganj,5722,54,5653,15
+319,UP,Uttar Pradesh,UP_Etawah,Etawah,5718,136,5478,104
+320,PB,Punjab,PB_Pathankot,Pathankot,5711,174,5384,153
+321,OR,Odisha,OR_Dhenkanal,Dhenkanal,5694,6,5659,29
+322,CT,Chhattisgarh,CT_Surajpur,Surajpur,5681,510,5135,36
+323,UP,Uttar Pradesh,UP_Kushinagar,Kushinagar,5628,67,5500,61
+324,TG,Telangana,TG_Peddapalli,Peddapalli,5587,5586,1,0
+325,BR,Bihar,BR_Supaul,Supaul,5577,33,5526,18
+326,RJ,Rajasthan,RJ_Jalore,Jalore,5545,148,5348,49
+327,JK,Jammu and Kashmir,JK_Pulwama,Pulwama,5535,184,5263,88
+328,JK,Jammu and Kashmir,JK_Kupwara,Kupwara,5519,124,5304,91
+329,TG,Telangana,TG_Kamareddy,Kamareddy,5517,5509,8,0
+330,CT,Chhattisgarh,CT_Kabeerdham,Kabeerdham,5514,21,5424,69
+331,MN,Manipur,MN_Imphal East,Imphal East,5466,5241,150,75
+332,BR,Bihar,BR_Vaishali,Vaishali,5400,68,5285,46
+333,UP,Uttar Pradesh,UP_Rampur,Rampur,5386,68,5266,52
+334,TG,Telangana,TG_Mahabubabad,Mahabubabad,5295,5294,1,0
+335,UP,Uttar Pradesh,UP_Pratapgarh,Pratapgarh,5272,128,5077,67
+336,OR,Odisha,OR_Malkangiri,Malkangiri,5220,11,5182,27
+337,UP,Uttar Pradesh,UP_Rae Bareli,Rae Bareli,5217,226,4885,106
+338,BR,Bihar,BR_Aurangabad,Aurangabad,5186,85,5086,15
+339,BR,Bihar,BR_Samastipur,Samastipur,5182,35,5113,34
+340,TG,Telangana,TG_Mancherial,Mancherial,5168,5167,0,1
+341,TN,Tamil Nadu,TN_Karur,Karur,5165,92,5023,50
+342,UP,Uttar Pradesh,UP_Ghazipur,Ghazipur,5116,84,4949,83
+343,MP,Madhya Pradesh,MP_Khargone,Khargone,5055,184,4778,93
+344,UP,Uttar Pradesh,UP_Basti,Basti,5025,58,4870,97
+345,UP,Uttar Pradesh,UP_Gonda,Gonda,5021,60,4894,67
+346,UP,Uttar Pradesh,UP_Sonbhadra,Sonbhadra,5004,171,4761,72
+347,MP,Madhya Pradesh,MP_Sagar,Sagar,5000,188,4665,147
+348,CT,Chhattisgarh,CT_Kondagaon,Kondagaon,4990,17,4947,26
+349,UT,Uttarakhand,UT_Pauri Garhwal,Pauri Garhwal,4982,221,4680,57
+350,BR,Bihar,BR_Bhojpur,Bhojpur,4968,39,4887,42
+351,RJ,Rajasthan,RJ_Barmer,Barmer,4941,132,4760,49
+352,TG,Telangana,TG_Rajanna Sircilla,Rajanna Sircilla,4938,4936,2,0
+353,GJ,Gujarat,GJ_Junagadh,Junagadh,4888,192,4663,33
+354,TG,Telangana,TG_Mahabubnagar,Mahabubnagar,4844,4836,8,0
+355,BR,Bihar,BR_Madhepura,Madhepura,4815,37,4761,17
+356,UP,Uttar Pradesh,UP_Sultanpur,Sultanpur,4784,216,4492,76
+357,JK,Jammu and Kashmir,JK_Anantnag,Anantnag,4782,101,4598,83
+358,JH,Jharkhand,JH_West Singhbhum,West Singhbhum,4764,17,4709,38
+359,UP,Uttar Pradesh,UP_Sitapur,Sitapur,4742,103,4563,76
+360,PB,Punjab,PB_Kapurthala,Kapurthala,4723,114,4413,196
+361,HR,Haryana,HR_Jind,Jind,4718,136,4493,89
+362,CT,Chhattisgarh,CT_Koriya,Koriya,4711,80,4594,37
+363,UP,Uttar Pradesh,UP_Chandauli,Chandauli,4702,130,4513,59
+364,OR,Odisha,OR_Subarnapur,Subarnapur,4696,7,4668,21
+365,BR,Bihar,BR_Siwan,Siwan,4675,65,4579,31
+366,HR,Haryana,HR_Fatehabad,Fatehabad,4659,41,4502,116
+367,RJ,Rajasthan,RJ_Dungarpur,Dungarpur,4644,399,4211,34
+368,JK,Jammu and Kashmir,JK_Bandipora,Bandipora,4643,53,4530,60
+369,TN,Tamil Nadu,TN_Ariyalur,Ariyalur,4632,11,4573,48
+370,MP,Madhya Pradesh,MP_Ujjain,Ujjain,4627,221,4304,102
+371,UP,Uttar Pradesh,UP_Farrukhabad,Farrukhabad,4597,61,4453,83
+372,AS,Assam,AS_Kamrup,Kamrup,4590,2481,2074,35
+373,GJ,Gujarat,GJ_Banaskantha,Banaskantha,4564,-48,4574,38
+374,PB,Punjab,PB_Ferozepur,Ferozepur,4521,33,4346,142
+375,AS,Assam,AS_Nagaon,Nagaon,4515,1983,2506,26
+376,RJ,Rajasthan,RJ_Jhunjhunu,Jhunjhunu,4505,34,4419,52
+377,UP,Uttar Pradesh,UP_Unnao,Unnao,4478,174,4221,83
+378,CT,Chhattisgarh,CT_Bametara,Bametara,4467,260,4154,53
+379,JK,Jammu and Kashmir,JK_Ganderbal,Ganderbal,4462,77,4342,43
+380,BR,Bihar,BR_Jehanabad,Jehanabad,4461,71,4370,20
+381,JH,Jharkhand,JH_Ramgarh,Ramgarh,4447,65,4355,27
+382,MP,Madhya Pradesh,MP_Ratlam,Ratlam,4387,273,4037,77
+383,HR,Haryana,HR_Palwal,Palwal,4373,28,4319,26
+384,JH,Jharkhand,JH_Hazaribagh,Hazaribagh,4372,75,4261,36
+385,BR,Bihar,BR_Sitamarhi,Sitamarhi,4354,70,4270,14
+386,PB,Punjab,PB_Sangrur,Sangrur,4352,24,4128,200
+387,HP,Himachal Pradesh,HP_Kullu,Kullu,4349,80,4185,82
+388,RJ,Rajasthan,RJ_Churu,Churu,4330,124,4166,40
+389,UP,Uttar Pradesh,UP_Hapur,Hapur,4310,110,4132,68
+390,TG,Telangana,TG_Nagarkurnool,Nagarkurnool,4304,4302,2,0
+391,BR,Bihar,BR_Kishanganj,Kishanganj,4279,114,4152,13
+392,UP,Uttar Pradesh,UP_Bijnor,Bijnor,4265,116,4090,59
+393,UP,Uttar Pradesh,UP_Amroha,Amroha,4228,69,4109,50
+394,MH,Maharashtra,MH_Hingoli,Hingoli,4174,94,3984,96
+395,GJ,Gujarat,GJ_Patan,Patan,4160,65,4042,53
+396,BR,Bihar,BR_Munger,Munger,4148,49,4049,50
+397,BR,Bihar,BR_Nawada,Nawada,4146,140,3983,23
+398,UP,Uttar Pradesh,UP_Pilibhit,Pilibhit,4137,62,3998,77
+399,UT,Uttarakhand,UT_Tehri Garhwal,Tehri Garhwal,4123,263,3717,16
+400,JK,Jammu and Kashmir,JK_Udhampur,Udhampur,4079,69,3953,57
+401,UP,Uttar Pradesh,UP_Bahraich,Bahraich,4054,65,3915,74
+402,TR,Tripura,TR_South Tripura,South Tripura,4051,23,4002,23
+403,GJ,Gujarat,GJ_Panchmahal,Panchmahal,4049,150,3878,21
+404,BR,Bihar,BR_Darbhanga,Darbhanga,4038,47,3959,32
+405,GJ,Gujarat,GJ_Kutch,Kutch,3997,214,3750,33
+406,CT,Chhattisgarh,CT_Bijapur,Bijapur,3980,19,3933,28
+407,OR,Odisha,OR_Gajapati,Gajapati,3977,4,3940,33
+408,UP,Uttar Pradesh,UP_Siddharthnagar,Siddharthnagar,3977,37,3889,51
+409,BR,Bihar,BR_Buxar,Buxar,3973,37,3918,18
+410,CT,Chhattisgarh,CT_Gariaband,Gariaband,3938,33,3858,47
+411,TR,Tripura,TR_Gomati,Gomati,3925,5,3875,44
+412,UP,Uttar Pradesh,UP_Jalaun,Jalaun,3908,96,3766,46
+413,RJ,Rajasthan,RJ_Rajsamand,Rajsamand,3872,366,3466,40
+414,TG,Telangana,TG_Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,3863,3863,0,0
+415,PB,Punjab,PB_Faridkot,Faridkot,3855,61,3720,74
+416,GJ,Gujarat,GJ_Bharuch,Bharuch,3845,138,3689,18
+417,PB,Punjab,PB_Fazilka,Fazilka,3837,49,3720,68
+418,JK,Jammu and Kashmir,JK_Rajouri,Rajouri,3835,177,3604,54
+419,UP,Uttar Pradesh,UP_Budaun,Budaun,3835,46,3744,45
+420,CT,Chhattisgarh,CT_Mungeli,Mungeli,3829,37,3768,24
+421,MP,Madhya Pradesh,MP_Dhar,Dhar,3826,100,3670,56
+422,UP,Uttar Pradesh,UP_Firozabad,Firozabad,3810,37,3705,68
+423,PB,Punjab,PB_Sri Muktsar Sahib,Sri Muktsar Sahib,3808,55,3657,96
+424,AS,Assam,AS_Golaghat,Golaghat,3803,2101,1656,46
+425,MP,Madhya Pradesh,MP_Rewa,Rewa,3797,115,3649,33
+426,PY,Puducherry,PY_Karaikal,Karaikal,3781,43,3676,62
+427,GJ,Gujarat,GJ_Amreli,Amreli,3773,90,3651,32
+428,UP,Uttar Pradesh,UP_Fatehpur,Fatehpur,3767,137,3564,66
+429,HR,Haryana,HR_Kaithal,Kaithal,3756,39,3668,49
+430,UP,Uttar Pradesh,UP_Mainpuri,Mainpuri,3742,88,3581,73
+431,RJ,Rajasthan,RJ_Dholpur,Dholpur,3728,71,3628,29
+432,UP,Uttar Pradesh,UP_Banda,Banda,3722,102,3580,40
+433,RJ,Rajasthan,RJ_Chittorgarh,Chittorgarh,3721,279,3404,38
+434,CT,Chhattisgarh,CT_Sukma,Sukma,3717,51,3656,10
+435,BR,Bihar,BR_Lakhisarai,Lakhisarai,3717,141,3567,9
+436,NL,Nagaland,NL_Kohima,Kohima,3710,76,3584,21
+437,JH,Jharkhand,JH_Saraikela-Kharsawan,Saraikela-Kharsawan,3660,24,3624,12
+438,UT,Uttarakhand,UT_Uttarkashi,Uttarkashi,3649,277,3265,16
+439,TG,Telangana,TG_Warangal Rural,Warangal Rural,3617,3617,0,0
+440,JH,Jharkhand,JH_Deoghar,Deoghar,3607,20,3564,23
+441,RJ,Rajasthan,RJ_Sirohi,Sirohi,3604,139,3438,27
+442,UP,Uttar Pradesh,UP_Amethi,Amethi,3592,104,3451,37
+443,MP,Madhya Pradesh,MP_Hoshangabad,Hoshangabad,3582,57,3466,59
+444,TG,Telangana,TG_Medak,Medak,3543,3539,4,0
+445,UP,Uttar Pradesh,UP_Shamli,Shamli,3540,36,3475,29
+446,GA,Goa,GA_South Goa,South Goa,3511,1978,1407,126
+447,MP,Madhya Pradesh,MP_Shivpuri,Shivpuri,3500,64,3407,29
+448,TG,Telangana,TG_Jangaon,Jangaon,3492,3491,1,0
+449,JH,Jharkhand,JH_Palamu,Palamu,3486,44,3422,20
+450,TG,Telangana,TG_Wanaparthy,Wanaparthy,3480,3480,0,0
+451,MP,Madhya Pradesh,MP_Vidisha,Vidisha,3472,121,3290,61
+452,UP,Uttar Pradesh,UP_Auraiya,Auraiya,3472,77,3349,46
+453,TR,Tripura,TR_Dhalai,Dhalai,3471,9,3443,18
+454,UP,Uttar Pradesh,UP_Kannauj,Kannauj,3454,32,3375,47
+455,BR,Bihar,BR_Banka,Banka,3446,101,3326,19
+456,GJ,Gujarat,GJ_Surendranagar,Surendranagar,3431,182,3237,12
+457,JH,Jharkhand,JH_Koderma,Koderma,3419,23,3368,28
+458,JH,Jharkhand,JH_Giridih,Giridih,3414,9,3391,14
+459,CT,Chhattisgarh,CT_Balrampur,Balrampur,3411,146,3253,12
+460,MP,Madhya Pradesh,MP_Narsinghpur,Narsinghpur,3403,60,3316,27
+461,UP,Uttar Pradesh,UP_Mirzapur,Mirzapur,3389,141,3206,42
+462,JK,Jammu and Kashmir,JK_Doda,Doda,3385,56,3266,63
+463,RJ,Rajasthan,RJ_Tonk,Tonk,3383,134,3215,34
+464,UT,Uttarakhand,UT_Chamoli,Chamoli,3374,151,3143,15
+465,RJ,Rajasthan,RJ_Jhalawar,Jhalawar,3373,104,3245,24
+466,AS,Assam,AS_Tinsukia,Tinsukia,3366,1525,1798,43
+467,PB,Punjab,PB_Rupnagar,Rupnagar,3329,109,3058,162
+468,CT,Chhattisgarh,CT_Jashpur,Jashpur,3324,184,3117,23
+469,TG,Telangana,TG_Jogulamba Gadwal,Jogulamba Gadwal,3321,3295,25,1
+470,UP,Uttar Pradesh,UP_Lalitpur,Lalitpur,3309,73,3190,46
+471,MP,Madhya Pradesh,MP_Satna,Satna,3266,94,3131,41
+472,UP,Uttar Pradesh,UP_Sant Kabir Nagar,Sant Kabir Nagar,3249,46,3159,44
+473,UT,Uttarakhand,UT_Pithoragarh,Pithoragarh,3204,431,2736,37
+474,MP,Madhya Pradesh,MP_Betul,Betul,3195,88,3038,69
+475,MP,Madhya Pradesh,MP_Morena,Morena,3192,15,3150,27
+476,JK,Jammu and Kashmir,JK_Kathua,Kathua,3186,60,3078,48
+477,UP,Uttar Pradesh,UP_Sambhal,Sambhal,3171,173,2954,44
+478,HP,Himachal Pradesh,HP_Sirmaur,Sirmaur,3163,124,3010,29
+479,BR,Bihar,BR_Jamui,Jamui,3141,20,3111,10
+480,BR,Bihar,BR_Khagaria,Khagaria,3070,20,3038,12
+481,GJ,Gujarat,GJ_Morbi,Morbi,3059,232,2809,18
+482,UT,Uttarakhand,UT_Almora,Almora,3050,189,2744,24
+483,UP,Uttar Pradesh,UP_Mau,Mau,3039,38,2962,39
+484,MP,Madhya Pradesh,MP_Balaghat,Balaghat,3008,88,2907,13
+485,AS,Assam,AS_Lakhimpur,Lakhimpur,3006,1847,1135,24
+486,GJ,Gujarat,GJ_Dahod,Dahod,2993,137,2849,7
+487,BR,Bihar,BR_Sheikhpura,Sheikhpura,2977,5,2959,13
+488,WB,West Bengal,WB_Jhargram,Jhargram,2959,33,2904,22
+489,GJ,Gujarat,GJ_Kheda,Kheda,2951,88,2847,16
+490,RJ,Rajasthan,RJ_Hanumangarh,Hanumangarh,2935,90,2833,12
+491,MP,Madhya Pradesh,MP_Neemuch,Neemuch,2918,109,2772,37
+492,MP,Madhya Pradesh,MP_Shahdol,Shahdol,2916,62,2824,30
+493,TR,Tripura,TR_Sipahijala,Sipahijala,2876,6,2833,37
+494,TG,Telangana,TG_Mulugu,Mulugu,2871,2869,2,0
+495,RJ,Rajasthan,RJ_Bundi,Bundi,2866,237,2610,19
+496,HP,Himachal Pradesh,HP_Chamba,Chamba,2849,149,2648,49
+497,HP,Himachal Pradesh,HP_Bilaspur,Bilaspur,2846,194,2627,24
+498,HP,Himachal Pradesh,HP_Hamirpur,Hamirpur,2829,222,2561,45
+499,JH,Jharkhand,JH_Garhwa,Garhwa,2785,33,2740,12
+500,GJ,Gujarat,GJ_Sabarkantha,Sabarkantha,2782,133,2636,13
+501,OR,Odisha,OR_Boudh,Boudh,2772,10,2751,11
+502,TR,Tripura,TR_Unokoti,Unokoti,2766,7,2736,23
+503,TR,Tripura,TR_North Tripura,North Tripura,2754,16,2715,16
+504,MZ,Mizoram,MZ_Aizawl,Aizawl,2747,60,2680,7
+505,MP,Madhya Pradesh,MP_Dewas,Dewas,2745,64,2655,26
+506,JK,Jammu and Kashmir,JK_Samba,Samba,2744,172,2534,38
+507,PB,Punjab,PB_Moga,Moga,2737,41,2603,93
+508,HP,Himachal Pradesh,HP_Una,Una,2727,145,2546,36
+509,JK,Jammu and Kashmir,JK_Kishtwar,Kishtwar,2717,21,2675,21
+510,MP,Madhya Pradesh,MP_Barwani,Barwani,2708,108,2576,24
+511,TG,Telangana,TG_Adilabad,Adilabad,2705,2690,15,0
+512,GA,Goa,GA_North Goa,North Goa,2668,1639,964,65
+513,MP,Madhya Pradesh,MP_Sehore,Sehore,2662,93,2521,48
+514,MP,Madhya Pradesh,MP_Chhindwara,Chhindwara,2658,45,2571,42
+515,JK,Jammu and Kashmir,JK_Kulgam,Kulgam,2658,64,2541,53
+516,MP,Madhya Pradesh,MP_Mandsaur,Mandsaur,2647,143,2471,33
+517,MP,Madhya Pradesh,MP_Damoh,Damoh,2627,148,2403,76
+518,MN,Manipur,MN_CAPF Personnel,CAPF Personnel,2620,1219,1399,2
+519,AS,Assam,AS_Sonitpur,Sonitpur,2548,802,1727,19
+520,TG,Telangana,TG_Nirmal,Nirmal,2519,2506,13,0
+521,UP,Uttar Pradesh,UP_Etah,Etah,2505,75,2403,27
+522,PB,Punjab,PB_Fatehgarh Sahib,Fatehgarh Sahib,2501,30,2360,111
+523,JK,Jammu and Kashmir,JK_Shopiyan,Shopiyan,2495,93,2364,38
+524,RJ,Rajasthan,RJ_Baran,Baran,2473,248,2192,33
+525,AP,Andhra Pradesh,AP_Other State,Other State,2461,0,2461,0
+526,JK,Jammu and Kashmir,JK_Punch,Punch,2444,24,2397,23
+527,RJ,Rajasthan,RJ_Dausa,Dausa,2396,114,2258,24
+528,TG,Telangana,TG_Vikarabad,Vikarabad,2394,2378,15,1
+529,TG,Telangana,TG_Jayashankar Bhupalapally,Jayashankar Bhupalapally,2392,2392,0,0
+530,PB,Punjab,PB_Mansa,Mansa,2390,43,2296,51
+531,PB,Punjab,PB_Shahid Bhagat Singh Nagar,Shahid Bhagat Singh Nagar,2365,43,2240,82
+532,MP,Madhya Pradesh,MP_Jhabua,Jhabua,2356,107,2222,27
+533,MP,Madhya Pradesh,MP_Raisen,Raisen,2338,59,2234,45
+534,GJ,Gujarat,GJ_Gir Somnath,Gir Somnath,2321,153,2144,24
+535,BR,Bihar,BR_Arwal,Arwal,2313,53,2249,11
+536,UP,Uttar Pradesh,UP_Baghpat,Baghpat,2278,55,2189,34
+537,PB,Punjab,PB_Barnala,Barnala,2274,50,2160,64
+538,MP,Madhya Pradesh,MP_Rajgarh,Rajgarh,2268,102,2107,59
+539,MN,Manipur,MN_Thoubal,Thoubal,2263,2200,23,40
+540,JH,Jharkhand,JH_Gumla,Gumla,2262,39,2219,4
+541,GJ,Gujarat,GJ_Anand,Anand,2258,59,2182,17
+542,UP,Uttar Pradesh,UP_Kaushambi,Kaushambi,2257,20,2211,26
+543,TN,Tamil Nadu,TN_Perambalur,Perambalur,2256,2,2233,21
+544,MP,Madhya Pradesh,MP_Khandwa,Khandwa,2231,40,2128,63
+545,UP,Uttar Pradesh,UP_Bhadohi,Bhadohi,2206,86,2099,21
+546,UT,Uttarakhand,UT_Rudraprayag,Rudraprayag,2199,92,2091,10
+547,RJ,Rajasthan,RJ_Jaisalmer,Jaisalmer,2169,169,1975,25
+548,WB,West Bengal,WB_Kalimpong,Kalimpong,2161,52,2086,23
+549,UP,Uttar Pradesh,UP_Chitrakoot,Chitrakoot,2144,37,2093,14
+550,MP,Madhya Pradesh,MP_Katni,Katni,2128,48,2063,17
+551,RJ,Rajasthan,RJ_Banswara,Banswara,2120,186,1900,34
+552,JH,Jharkhand,JH_Khunti,Khunti,2108,7,2095,6
+553,PB,Punjab,PB_Tarn Taran,Tarn Taran,2104,14,1986,104
+554,JK,Jammu and Kashmir,JK_Ramban,Ramban,2103,31,2051,21
+555,PY,Puducherry,PY_Yanam,Yanam,2099,10,2044,45
+556,LA,Ladakh,LA_Kargil,Kargil,2095,9,2043,43
+557,UP,Uttar Pradesh,UP_Kanpur Dehat,Kanpur Dehat,2095,66,1995,34
+558,UP,Uttar Pradesh,UP_Balrampur,Balrampur,2090,88,1969,33
+559,RJ,Rajasthan,RJ_Sawai Madhopur,Sawai Madhopur,2084,98,1960,26
+560,JH,Jharkhand,JH_Godda,Godda,2075,9,2056,10
+561,BR,Bihar,BR_Kaimur,Kaimur,2062,17,2035,10
+562,MP,Madhya Pradesh,MP_Harda,Harda,2027,46,1947,34
+563,JH,Jharkhand,JH_Simdega,Simdega,2016,16,1995,5
+564,MP,Madhya Pradesh,MP_Chhatarpur,Chhatarpur,2012,59,1921,32
+565,MP,Madhya Pradesh,MP_Anuppur,Anuppur,1995,18,1963,14
+566,AS,Assam,AS_Darrang,Darrang,1967,219,1730,18
+567,TN,Tamil Nadu,TN_Airport Quarantine,Airport Quarantine,1955,7,1946,2
+568,GJ,Gujarat,GJ_Mahisagar,Mahisagar,1942,104,1831,7
+569,MP,Madhya Pradesh,MP_Sidhi,Sidhi,1942,48,1881,13
+570,GJ,Gujarat,GJ_Narmada,Narmada,1939,49,1889,1
+571,UP,Uttar Pradesh,UP_Kasganj,Kasganj,1938,58,1874,6
+572,CT,Chhattisgarh,CT_Narayanpur,Narayanpur,1915,42,1871,2
+573,JH,Jharkhand,JH_Latehar,Latehar,1884,20,1857,7
+574,UP,Uttar Pradesh,UP_Ambedkar Nagar,Ambedkar Nagar,1860,50,1767,43
+575,MP,Madhya Pradesh,MP_Singrauli,Singrauli,1856,47,1783,26
+576,TR,Tripura,TR_Khowai,Khowai,1835,7,1797,31
+577,MP,Madhya Pradesh,MP_Datia,Datia,1819,57,1742,20
+578,JH,Jharkhand,JH_Lohardaga,Lohardaga,1765,26,1729,10
+579,PY,Puducherry,PY_Mahe,Mahe,1763,89,1666,8
+580,AS,Assam,AS_Dhubri,Dhubri,1723,496,1215,12
+581,UT,Uttarakhand,UT_Champawat,Champawat,1712,109,1521,8
+582,ML,Meghalaya,ML_West Garo Hills,West Garo Hills,1709,14,1679,16
+583,MP,Madhya Pradesh,MP_Shajapur,Shajapur,1689,69,1598,22
+584,HR,Haryana,HR_Nuh,Nuh,1685,16,1639,30
+585,AS,Assam,AS_Hojai,Hojai,1646,472,1160,14
+586,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Dadra and Nagar Haveli,Dadra and Nagar Haveli,1645,5,1634,1
+587,AS,Assam,AS_Hailakandi,Hailakandi,1632,509,1116,7
+588,JH,Jharkhand,JH_Sahibganj,Sahibganj,1631,14,1608,9
+589,JK,Jammu and Kashmir,JK_Reasi,Reasi,1624,50,1559,15
+590,GJ,Gujarat,GJ_Navsari,Navsari,1572,26,1538,8
+591,UP,Uttar Pradesh,UP_Hamirpur,Hamirpur,1566,18,1527,21
+592,TG,Telangana,TG_Komaram Bheem,Komaram Bheem,1521,1519,2,0
+593,RJ,Rajasthan,RJ_Karauli,Karauli,1505,41,1444,20
+594,UT,Uttarakhand,UT_Bageshwar,Bageshwar,1494,154,1322,18
+595,SK,Sikkim,SK_East Sikkim,East Sikkim,1494,385,1106,3
+596,HR,Haryana,HR_Charkhi Dadri,Charkhi Dadri,1492,55,1412,25
+597,MP,Madhya Pradesh,MP_Seoni,Seoni,1483,34,1439,10
+598,MP,Madhya Pradesh,MP_Bhind,Bhind,1457,25,1422,10
+599,UP,Uttar Pradesh,UP_Mahoba,Mahoba,1454,32,1411,11
+600,MP,Madhya Pradesh,MP_Guna,Guna,1445,56,1363,26
+601,BR,Bihar,BR_Sheohar,Sheohar,1440,34,1405,1
+602,MN,Manipur,MN_Churachandpur,Churachandpur,1411,1327,58,26
+603,JH,Jharkhand,JH_Chatra,Chatra,1407,17,1379,11
+604,MP,Madhya Pradesh,MP_Sheopur,Sheopur,1405,43,1348,14
+605,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Daman,Daman,1404,3,1376,1
+606,JH,Jharkhand,JH_Dumka,Dumka,1374,13,1347,14
+607,GJ,Gujarat,GJ_Valsad,Valsad,1362,20,1333,9
+608,ML,Meghalaya,ML_Ribhoi,Ribhoi,1350,24,1324,2
+609,MN,Manipur,MN_Tamenglong,Tamenglong,1333,1295,32,6
+610,HP,Himachal Pradesh,HP_Kinnaur,Kinnaur,1313,32,1265,16
+611,AS,Assam,AS_Bongaigaon,Bongaigaon,1303,462,834,7
+612,UP,Uttar Pradesh,UP_Shrawasti,Shrawasti,1302,36,1248,18
+613,UP,Uttar Pradesh,UP_Hathras,Hathras,1285,12,1266,7
+614,MN,Manipur,MN_Bishnupur,Bishnupur,1275,1196,58,21
+615,OR,Odisha,OR_Deogarh,Deogarh,1274,15,1254,5
+616,AR,Arunachal Pradesh,AR_Changlang,Changlang,1273,1,1268,4
+617,MP,Madhya Pradesh,MP_Tikamgarh,Tikamgarh,1254,39,1188,27
+618,JH,Jharkhand,JH_Jamtara,Jamtara,1248,11,1233,4
+619,MP,Madhya Pradesh,MP_Alirajpur,Alirajpur,1246,33,1200,13
+620,HP,Himachal Pradesh,HP_Lahaul and Spiti,Lahaul and Spiti,1241,40,1189,12
+621,MP,Madhya Pradesh,MP_Umaria,Umaria,1234,41,1177,16
+622,AS,Assam,AS_Karimganj,Karimganj,1200,219,955,26
+623,RJ,Rajasthan,RJ_Pratapgarh,Pratapgarh,1198,94,1085,19
+624,MP,Madhya Pradesh,MP_Mandla,Mandla,1195,37,1148,10
+625,GJ,Gujarat,GJ_Aravalli,Aravalli,1149,62,1061,26
+626,AR,Arunachal Pradesh,AR_East Siang,East Siang,1126,10,1112,4
+627,AS,Assam,AS_Barpeta,Barpeta,1121,84,1024,13
+628,TG,Telangana,TG_Narayanpet,Narayanpet,1107,1106,0,1
+629,MP,Madhya Pradesh,MP_Ashoknagar,Ashoknagar,1086,31,1038,17
+630,CT,Chhattisgarh,CT_Gaurela Pendra Marwahi,Gaurela Pendra Marwahi,1061,175,877,9
+631,MP,Madhya Pradesh,MP_Panna,Panna,1044,64,976,4
+632,GJ,Gujarat,GJ_Devbhumi Dwarka,Devbhumi Dwarka,1038,29,1004,5
+633,GJ,Gujarat,GJ_Tapi,Tapi,1030,16,1008,6
+634,AR,Arunachal Pradesh,AR_West Siang,West Siang,1029,2,1024,3
+635,GJ,Gujarat,GJ_Botad,Botad,1028,69,947,12
+636,MP,Madhya Pradesh,MP_Dindori,Dindori,948,16,931,1
+637,AS,Assam,AS_Nalbari,Nalbari,948,103,828,17
+638,AR,Arunachal Pradesh,AR_West Kameng,West Kameng,921,11,906,4
+639,JH,Jharkhand,JH_Pakur,Pakur,900,0,898,2
+640,GJ,Gujarat,GJ_Chhota Udaipur,Chhota Udaipur,863,14,846,3
+641,MH,Maharashtra,MH_Other State,Other State,855,785,0,69
+642,MP,Madhya Pradesh,MP_Burhanpur,Burhanpur,844,3,814,27
+643,AS,Assam,AS_Dhemaji,Dhemaji,765,317,440,8
+644,AS,Assam,AS_Udalguri,Udalguri,758,84,666,8
+645,MN,Manipur,MN_Kakching,Kakching,755,721,27,7
+646,GJ,Gujarat,GJ_Porbandar,Porbandar,701,11,686,4
+647,AS,Assam,AS_Baksa,Baksa,687,233,447,7
+648,AS,Assam,AS_Goalpara,Goalpara,658,38,568,10
+649,AS,Assam,AS_Morigaon,Morigaon,638,72,557,9
+650,MP,Madhya Pradesh,MP_Niwari,Niwari,636,21,613,2
+651,AS,Assam,AS_Karbi Anglong,Karbi Anglong,632,69,552,11
+652,MP,Madhya Pradesh,MP_Agar Malwa,Agar Malwa,627,25,592,10
+653,MN,Manipur,MN_Kangpokpi,Kangpokpi,611,583,19,9
+654,NL,Nagaland,NL_Mon,Mon,603,0,592,2
+655,AR,Arunachal Pradesh,AR_Tirap,Tirap,586,1,583,2
+656,AR,Arunachal Pradesh,AR_Lohit,Lohit,568,1,567,0
+657,MN,Manipur,MN_Ukhrul,Ukhrul,534,514,18,2
+658,AS,Assam,AS_Sivasagar,Sivasagar,529,21,473,35
+659,ML,Meghalaya,ML_East Jaintia Hills,East Jaintia Hills,526,0,526,0
+660,NL,Nagaland,NL_Peren,Peren,502,3,498,0
+661,SK,Sikkim,SK_South Sikkim,South Sikkim,486,413,73,0
+662,ML,Meghalaya,ML_West Jaintia Hills,West Jaintia Hills,478,1,476,1
+663,AR,Arunachal Pradesh,AR_Tawang,Tawang,477,30,445,2
+664,MN,Manipur,MN_Senapati,Senapati,475,453,21,1
+665,AR,Arunachal Pradesh,AR_Lower Dibang Valley,Lower Dibang Valley,474,3,471,0
+666,AS,Assam,AS_Biswanath,Biswanath,467,80,379,8
+667,CT,Chhattisgarh,CT_Other State,Other State,454,61,338,55
+668,AR,Arunachal Pradesh,AR_Upper Subansiri,Upper Subansiri,441,0,439,2
+669,AP,Andhra Pradesh,AP_Foreign Evacuees,Foreign Evacuees,434,0,434,0
+670,AR,Arunachal Pradesh,AR_Namsai,Namsai,429,4,421,4
+671,TN,Tamil Nadu,TN_Railway Quarantine,Railway Quarantine,428,0,428,0
+672,AS,Assam,AS_Kokrajhar,Kokrajhar,408,43,353,12
+673,MZ,Mizoram,MZ_Lunglei,Lunglei,390,15,375,0
+674,AR,Arunachal Pradesh,AR_Lower Subansiri,Lower Subansiri,381,0,380,1
+675,AR,Arunachal Pradesh,AR_Upper Siang,Upper Siang,360,1,359,0
+676,MN,Manipur,MN_Chandel,Chandel,348,335,4,9
+677,ML,Meghalaya,ML_East Garo Hills,East Garo Hills,339,1,337,1
+678,MN,Manipur,MN_Noney,Noney,321,302,18,1
+679,MZ,Mizoram,MZ_Lawngtlai,Lawngtlai,318,11,307,0
+680,DN,Dadra and Nagar Haveli and Daman and Diu,DN_Diu,Diu,312,3,309,0
+681,AR,Arunachal Pradesh,AR_East Kameng,East Kameng,304,0,304,0
+682,MZ,Mizoram,MZ_Kolasib,Kolasib,286,5,281,0
+683,AR,Arunachal Pradesh,AR_Lower Siang,Lower Siang,286,1,285,0
+684,AS,Assam,AS_Chirang,Chirang,280,53,219,8
+685,AR,Arunachal Pradesh,AR_Lepa Rada,Lepa Rada,277,0,277,0
+686,MN,Manipur,MN_Tengnoupal,Tengnoupal,276,262,13,1
+687,MN,Manipur,MN_Jiribam,Jiribam,265,263,2,0
+688,MN,Manipur,MN_Kamjong,Kamjong,251,234,17,0
+689,TG,Telangana,TG_Other State,Other State,250,250,0,0
+690,AR,Arunachal Pradesh,AR_Longding,Longding,249,1,248,0
+691,NL,Nagaland,NL_Tuensang,Tuensang,244,0,243,1
+692,AS,Assam,AS_Dima Hasao,Dima Hasao,237,36,199,2
+693,AR,Arunachal Pradesh,AR_Anjaw,Anjaw,204,0,204,0
+694,GA,Goa,GA_Other State,Other State,200,9,190,1
+695,ML,Meghalaya,ML_South West Garo Hills,South West Garo Hills,198,3,193,2
+696,ML,Meghalaya,ML_South Garo Hills,South Garo Hills,197,0,196,1
+697,RJ,Rajasthan,RJ_Other State,Other State,189,0,150,39
+698,DL,Delhi,DL_Central Delhi,Central Delhi,184,184,0,0
+699,MZ,Mizoram,MZ_Serchhip,Serchhip,178,3,174,1
+700,NL,Nagaland,NL_Mokokchung,Mokokchung,178,46,124,2
+701,ML,Meghalaya,ML_West Khasi Hills,West Khasi Hills,173,5,167,1
+702,AS,Assam,AS_Majuli,Majuli,165,79,80,6
+703,GJ,Gujarat,GJ_Other State,Other State,162,0,159,3
+704,GJ,Gujarat,GJ_Dang,Dang,149,8,141,0
+705,NL,Nagaland,NL_Zunheboto,Zunheboto,142,0,139,0
+706,AR,Arunachal Pradesh,AR_Siang,Siang,133,1,131,1
+707,DL,Delhi,DL_South East Delhi,South East Delhi,130,130,0,0
+708,AR,Arunachal Pradesh,AR_Pakke Kessang,Pakke Kessang,129,0,129,0
+709,DL,Delhi,DL_West Delhi,West Delhi,122,122,0,0
+710,ML,Meghalaya,ML_North Garo Hills,North Garo Hills,117,1,114,2
+711,AR,Arunachal Pradesh,AR_Kurung Kumey,Kurung Kumey,117,0,117,0
+712,AS,Assam,AS_Charaideo,Charaideo,113,-3,105,11
+713,AR,Arunachal Pradesh,AR_Shi Yomi,Shi Yomi,104,0,104,0
+714,MZ,Mizoram,MZ_Champhai,Champhai,94,2,92,0
+715,SK,Sikkim,SK_West Sikkim,West Sikkim,91,76,15,0
+716,RJ,Rajasthan,RJ_BSF Camp,BSF Camp,85,0,85,0
+717,MZ,Mizoram,MZ_Mamit,Mamit,82,0,82,0
+718,DL,Delhi,DL_South Delhi,South Delhi,70,70,0,0
+719,WB,West Bengal,WB_Other State,Other State,66,0,63,3
+720,RJ,Rajasthan,RJ_Evacuees,Evacuees,61,0,61,0
+721,DL,Delhi,DL_North Delhi,North Delhi,60,60,0,0
+722,ML,Meghalaya,ML_South West Khasi Hills,South West Khasi Hills,57,0,57,0
+723,AS,Assam,AS_South Salmara Mankachar,South Salmara Mankachar,51,3,47,1
+724,AN,Andaman and Nicobar Islands,AN_South Andaman,South Andaman,51,19,32,0
+725,DL,Delhi,DL_Shahdara,Shahdara,48,48,0,0
+726,NL,Nagaland,NL_Phek,Phek,47,3,44,0
+727,DL,Delhi,DL_South West Delhi,South West Delhi,42,42,0,0
+728,NL,Nagaland,NL_Kiphire,Kiphire,41,6,34,1
+729,NL,Nagaland,NL_Wokha,Wokha,39,1,35,1
+730,AS,Assam,AS_West Karbi Anglong,West Karbi Anglong,39,1,37,1
+731,DL,Delhi,DL_East Delhi,East Delhi,38,38,0,0
+732,MN,Manipur,MN_Pherzawl,Pherzawl,37,22,15,0
+733,AR,Arunachal Pradesh,AR_Kra Daadi,Kra Daadi,37,0,37,0
+734,DL,Delhi,DL_New Delhi,New Delhi,37,37,0,0
+735,KA,Karnataka,KA_Other State,Other State,36,0,33,3
+736,MZ,Mizoram,MZ_Saiha,Saiha,35,0,35,0
+737,TG,Telangana,TG_Foreign Evacuees,Foreign Evacuees,33,33,0,0
+738,DL,Delhi,DL_North West Delhi,North West Delhi,32,31,0,1
+739,AR,Arunachal Pradesh,AR_Kamle,Kamle,29,0,29,0
+740,MZ,Mizoram,MZ_Saitual,Saitual,28,1,27,0
+741,DL,Delhi,DL_North East Delhi,North East Delhi,25,25,0,0
+742,AR,Arunachal Pradesh,AR_Upper Dibang Valley,Upper Dibang Valley,23,0,23,0
+743,MZ,Mizoram,MZ_Khawzawl,Khawzawl,22,0,22,0
+744,MZ,Mizoram,MZ_Hnahthial,Hnahthial,19,3,16,0
+745,NL,Nagaland,NL_Longleng,Longleng,18,0,9,0
+746,AS,Assam,AS_Airport Quarantine,Airport Quarantine,13,0,13,0
+747,SK,Sikkim,SK_North Sikkim,North Sikkim,5,4,1,0
+748,RJ,Rajasthan,RJ_Italians,Italians,2,0,2,0
+749,AN,Andaman and Nicobar Islands,AN_North and Middle Andaman,North and Middle Andaman,1,0,1,0
+750,AS,Assam,AS_Other State,Other State,1,0,1,0
